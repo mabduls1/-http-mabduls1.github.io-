@@ -1,0 +1,103 @@
+/*---------------Global Styles---------------*/
+
+/*-------BODY-----*/
+
+body {
+    background-color: rgba(43, 117, 72, 0.459);
+    height: auto;
+    width: auto;
+    padding: 5%;
+    margin: auto;
+    padding-bottom: 1%;
+}
+
+/*------Nav-------*/
+
+#main-nav {
+    min-width: 696px;
+    list-style: none;
+    padding-top: 20px;
+    color: #8b1e1e;
+    font-family: Arial;
+    font-size: 16.0px;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: normal;
+    text-align: left;
+    text-indent: 0.0px;
+    text-transform: none;
+    word-spacing: 0.50px;
+    text-decoration: none;
+}
+
+#main-nav li {
+    display: inline-block;
+    list-style-type: none;
+}
+
+/*------End Nav-------*/
+
+/*--------Footer------*/
+
+.footer {
+    width: 100%;
+    height: 15%;
+    margin: auto;
+    text-decoration: none;
+    position: initial;
+    bottom: 0;
+    border: 4px;
+}
+
+#footer-button {
+    height: 33px;
+    width: 88px;
+}
+
+.footer-main-menu {
+    display: table;
+    /* Allow the centering to work */
+    margin: 0 auto;
+}
+
+/*---to style the menu list in the footer-----*/
+
+ul#main-menu {
+    min-width: 696px;
+    list-style: none;
+    padding-top: 20px;
+    color: #8b1e1e;
+    font-family: Arial;
+    font-size: 16.0px;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: normal;
+    text-align: left;
+    text-indent: 0.0px;
+    text-transform: none;
+    word-spacing: 0.50px;
+}
+
+ul#main-menu li {
+    display: inline-block;
+    list-style-type: none;
+}
+
+a:link {
+    color: rgb(10, 134, 26);
+    text-decoration: none;
+}
+
+a:visited {
+    color: rgb(173, 41, 48);
+    text-decoration: none;
+}
+
+ul.validation-b-p li {
+    display: inline-block;
+    list-style-type: none;
+    padding: 0px;
+    padding-left: 80px;
+}
+
+/*-------*/
